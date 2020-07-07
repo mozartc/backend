@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 29 17:03:26 CST 2019
+tomcat-dbcp-7.0.47.jar>central=
+tomcat-dbcp-7.0.47.pom>central=
+tomcat-dbcp-7.0.47-sources.jar>central=
